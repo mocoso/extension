@@ -875,7 +875,7 @@ Array [
 ]
 `;
 
-exports[`getCountryStores returns Spanian stores 1`] = `
+exports[`getCountryStores returns Spanish stores 1`] = `
 Array [
   Object {
     "categories": Array [
